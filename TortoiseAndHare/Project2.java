@@ -1,5 +1,5 @@
 // Simulates tortoise and hare race.
-public class Project2
+public class RaceProject
 {
 	public static void main( String [] args )
 	{
@@ -10,7 +10,7 @@ public class Project2
 		
 		// Start of race.
 		System.out.println();
-		System.out.print("AND THEY'RE OFF!!");
+		System.out.print("AND THEY'RE OFF!!!");
 		System.out.println();
 		System.out.println();
 
@@ -46,8 +46,7 @@ public class Project2
 		}
 	}
 
-	// Code I found on the internet to delay a program.
-	// Purpose is easy viewing.
+	// Delay intervals between track display for easy viewing.
 	public static void Sleep()
 	{
 		try 
