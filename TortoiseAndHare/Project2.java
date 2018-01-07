@@ -1,5 +1,5 @@
 // Simulates tortoise and hare race.
-public class Race Projectx
+public class RaceProject
 {
 	public static void main( String [] args )
 	{
