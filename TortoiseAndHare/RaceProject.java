@@ -10,7 +10,7 @@ public class RaceProject
 		
 		// Start of race.
 		System.out.println();
-		System.out.print("AND THEY'RE OFF!!!");
+		System.out.print("AND THEY'RE OFF!!");
 		System.out.println();
 		System.out.println();
 
